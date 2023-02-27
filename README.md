@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I love coding. Ever since I was a kid, it's been my dream to make my mark on the world as an engineer. This is where I try to make that happen.
+
 <!--
 **dyc3/dyc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
